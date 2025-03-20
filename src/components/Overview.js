@@ -5,25 +5,25 @@ import '../styles/overview.css'
 const cardSmallList = [
     {
         icon: 'images/facebook.png',
-        pageViews: '87',
-        growth: 3,
+        pageViews: '342',
+        growth: 102,
         key: 1
     },
     {
         icon: 'images/twitter.png',
-        pageViews: '52',
-        growth:  2257,
+        pageViews: '133',
+        growth:  44,
         key: 2
     },
     {
         icon: 'images/instagram24.png',
-        pageViews: '5462',
-        growth: 1375,
+        pageViews: '7462',
+        growth: 375,
         key: 3
     },
     {
         icon: 'images/youtube.png',
-        pageViews: '117',
+        pageViews: '1117',
         growth: 303,
         key: 4
     }
